@@ -1,0 +1,20 @@
+{
+    "Author": "s_lapointe",
+    "ContentSize": 2806,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/audit-azure-subscription-rbac-assignments/master/Invoke-AzureRmSubscriptionRBACAudit.ps1",
+    "DownloadCount": 2268,
+    "Id": "Audit-Azure-subscription-f57d114e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 72,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-9-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "If you need to audit/log Azure permissions, this is it. I created this script to help perform a RBAC audit for a Azure subscription.\u00a0This script resolves all RBAC assignments, then expand every group to retain only resolved users.\u00a0It is build so that you can take the output and d",
+    "Title": "Audit Azure subscription RBAC assignments",
+    "UpdatedDate": "2018-10-11T00:00:00",
+    "Url": "https://github.com/azureautomation/audit-azure-subscription-rbac-assignments",
+    "UserTags": "Microsoft Azure, Powershell, Permissions"
+}
